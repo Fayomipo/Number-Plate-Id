@@ -2,8 +2,6 @@
 
 A complete system for license plate detection, recognition, and wireless transmission using LoRa technology.
 
-![License Plate Recognition System](https://via.placeholder.com/800x400?text=License+Plate+Recognition+System)
-
 ## 📋 Overview
 
 This project creates an end-to-end license plate recognition system with two main components:
